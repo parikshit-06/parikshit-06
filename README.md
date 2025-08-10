@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/parikshit-06?style=social)](https://github.com/parikshit-06?tab=followers)
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fparikshit-06.github.io)](https://parikshit-06.github.io/)
 
-I build real-world robotics & AI projects, mainly UAVs, that actually work outside the lab. I’m not about shiny theory—I push through engineering headaches to ship usable tech combining vision, audio, control, and real-time systems.
+I build real-world robotics & AI projects, mainly UAVs, that actually work outside the lab. I’m not about shiny theory. I push through engineering headaches to ship usable tech combining vision, audio, control, and real-time systems.
 
 ---
 
