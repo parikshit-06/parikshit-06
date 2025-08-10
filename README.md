@@ -1,4 +1,4 @@
-# Hey, I’m Parikshit Sonwane
+# Hey, I’m Parikshit
 
 ### Student | Robotics & UAV Dev | ML & Embedded Systems | Open Source
 
@@ -8,6 +8,15 @@
 
 I build real-world robotics & AI projects, mainly UAVs, that actually work outside the lab. I’m not about shiny theory. I push through engineering headaches to ship usable tech combining vision, audio, control, and real-time systems.
 
+---
+
+## About Me  
+- **B.Tech Aerospace Engineering @ IIT Madras** (2026)  
+- **Co-Founder, Orbis Aerospace**
+- Working on **UAVs, VTOL drones, amphibious aircrafts, and AI-powered flight systems**  
+- Skilled in **ROS2, PX4, MAVSDK, Machine Learning, and Control Systems**  
+- Interested in **Flight Control, AI for Robotics, and Multi-Modal Perception**  
+- Currently: working on **control systems** in MATLAB
 ---
 
 ## What I’m Building
@@ -22,15 +31,11 @@ I build real-world robotics & AI projects, mainly UAVs, that actually work outsi
 
 ---
 
-## Skills & Tools
-
-| Area                 | Tools & Technologies                         |
-|----------------------|---------------------------------------------|
-| Programming          | Python, C++, MATLAB, Bash                    |
-| ML & Vision          | TensorFlow, PyTorch, CNNs, MFCC, OpenCV      |
-| Robotics & UAVs      | ROS2, PX4, Gazebo, Jetson Nano, Raspberry Pi |
-| Embedded & Real-Time | RT Systems, Docker, MediaPipe                |
-| Version Control      | Git, GitHub                                  |
+## Tech Stack  
+**Languages:** C, C++, Python, SQL  
+**Frameworks & Tools:** ROS2, PX4, MAVSDK, OpenCV, MediaPipe, TensorFlow, PyTorch, Hugging Face, Scikit-learn  
+**Simulation & Design:** MATLAB, XFLR5, Gazebo, QGroundControl, Open3D  
+**Other Skills:** Linux (Ubuntu), Git/GitHub, Power BI, Rasa, Streamlit 
 
 ---
 
@@ -53,13 +58,26 @@ Let’s push these projects forward together.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parikshit-06&show_icons=true&count_private=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parikshit-06&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parikshit-06&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parikshit-06&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## Achievements  
+- **Top 2.4%** in JEE Advanced 2022  
+- **6th** in Aerial Robotics, **Inter IIT Tech Meet 13.0, IIT Bombay**  
+- **Certification of Merit** in CBSE Mathematics Grade 10
+- **10× Medalist** in SOF Mathematics Olympiad
+- **Yellow Belt** in Martial Arts
 
 ---
 
-## Connect
-
-* 🌐 [Personal Site & Blog](https://parikshit-06.github.io/)  
-* 💼 [LinkedIn](https://www.linkedin.com/in/psonwane/)
-
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/psonwane/)  
+- 🌐 [Portfolio](https://parikshit-06.github.io/)  
+- 📧 Email: **parik.sonwane06@gmail.com** 
 ---
